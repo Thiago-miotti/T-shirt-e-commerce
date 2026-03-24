@@ -4,7 +4,7 @@ Loja de camisetas em React com carrinho, navegação e componentes de UI. Projet
 
 ## Demonstração
 
-![Demonstração da aplicação](./assets/demonstracao.gif)
+(src/assets/Demonstracao.gif)
 
 ## Tecnologias
 
@@ -21,7 +21,6 @@ Loja de camisetas em React com carrinho, navegação e componentes de UI. Projet
 | **Carrossel**                    | [Embla Carousel](https://www.embla-carousel.com/) (React)                           |
 | **Ícones**                       | [React Icons](https://react-icons.github.io/react-icons/)                           |
 | **Documentação de UI**           | [Storybook](https://storybook.js.org/) 10 (`@storybook/react-vite`)                 |
-| **Testes**                       | [Vitest](https://vitest.dev/) com [Playwright](https://playwright.dev/) (browser)   |
 | **Lint**                         | ESLint                                                                              |
 
 ## Scripts
