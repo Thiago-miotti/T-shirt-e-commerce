@@ -4,7 +4,7 @@ Loja de camisetas em React com carrinho, navegação e componentes de UI. Projet
 
 ## Demonstração
 
-(src/assets/Demonstracao.gif)
+![Demonstração do E-commerce](src/assets/Demonstracao.gif)
 
 ## Tecnologias
 
